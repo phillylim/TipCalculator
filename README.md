@@ -28,17 +28,18 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/A9H3C5J' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with Mac Screen capture.
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+Had some errors with linking the the GUI and actual code due to accidentally linking a text label to a deleted segment of code. I resolved it, but other than that, I had no issues.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Philly Lim]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
