@@ -1,17 +1,17 @@
-# Pre-work - *Name of App Here*
+# Pre-work - iTipper
 
-**Name of your app** is a tip calculator application for iOS.
+iTipper is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Philly
 
-Time spent: **X** hours spent in total
+Time spent: 1 hour spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
